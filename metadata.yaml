@@ -1,0 +1,31 @@
+_repo: Opera-nova-amorosa-vol.-2--13-Traggedia_31285
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Notturno, Napolitano
+    aliases:
+    - Nocturno, Neapolitano
+    - Napolitano, Notturno
+    - Notturno, Napoletano
+    - Nocturno, Napolitano
+    gutenberg_agent_id: '34785'
+    url: http://www.gutenberg.org/2009/agents/34785
+description: ''
+gutenberg_bookshelf: IT Teatro in versi
+gutenberg_issued: '2010-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31285'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+- !lcsh 'Drama'
+title: "Opera nova amorosa, vol. 2\r\nTraggedia"
+url: http://www.gutenberg.org/ebooks/31285
