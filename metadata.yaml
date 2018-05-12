@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '34785'
     url: http://www.gutenberg.org/2009/agents/34785
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31285#Opera-nova-amorosa-vol.-2--13-Traggedia
 gutenberg_bookshelf: IT Teatro in versi
 gutenberg_issued: '2010-02-15'
 gutenberg_type: Text
